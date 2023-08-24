@@ -31,7 +31,7 @@ SOFTWARE_UPDATES_PROXY_USER=
 SOFTWARE_UPDATES_PROXY_PASSWORD=<SECURE_VALUE>
 
 #The oracle home location. This can be an existing Oracle Home or a new Oracle Home
-ORACLE_HOME=/u01/app/oracle/may23/new_middlware/wls
+ORACLE_HOME=/u01/app/oracle/may23/new_middleware/wls
  
 #Set this variable value to the Installation Type selected. e.g. Fusion Middleware Infrastructure, Fusion Middleware Infrastructure With Examples.
 INSTALL_TYPE=Fusion Middleware Infrastructure
@@ -99,7 +99,7 @@ SOFTWARE_UPDATES_PROXY_USER=
 SOFTWARE_UPDATES_PROXY_PASSWORD=<SECURE_VALUE>
 
 #The oracle home location. This can be an existing Oracle Home or a new Oracle Home
-ORACLE_HOME=/u01/app/oracle/may23/new_middlware/wls
+ORACLE_HOME=/u01/app/oracle/may23/new_middleware/wls
  
 #Set this variable value to the Installation Type selected. e.g. WebLogic Server, Coherence, Complete with Examples.
 INSTALL_TYPE=WebLogic Server
